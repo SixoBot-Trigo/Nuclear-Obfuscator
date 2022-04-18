@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-![nwo-gas-masks-drawing-lesson_5e4cee60b923a5 72421555_122518_5_3](https://user-images.githubusercontent.com/103894335/163794304-eaa34d32-41c4-47ce-a07e-08e83915b631.png)
+<img src="https://user-images.githubusercontent.com/103894335/163794304-eaa34d32-41c4-47ce-a07e-08e83915b631.png", width="500", height="500">
 </p>
 
 -----
@@ -33,7 +33,7 @@ code and make it extremely difficult to get deobfuscated by using Kyrie Encrypt.
 <br>
 
 <p align="right">
-<img src="https://assets.dragoart.com/images/23746_501/nwo-gas-masks-drawing-lesson_5e4cee60b923a5.72421555_122518_5_3.png">
+<img src="https://user-images.githubusercontent.com/103894335/163794304-eaa34d32-41c4-47ce-a07e-08e83915b631.png">
 </p>
 
 <br>
@@ -59,7 +59,7 @@ code and make it extremely difficult to get deobfuscated by using Kyrie Encrypt.
 
 -----
   
-### <p align="center">🎨 Contributors 🎨</p>
+### <p align="center">ℹ️ Contributors ℹ️</p>
 
 <br><br>
 * [Bleu] (https://github.com/billythegoat356/Apollyon) <- the script is based on Apollyon
