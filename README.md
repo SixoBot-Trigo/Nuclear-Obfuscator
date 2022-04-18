@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://assets.dragoart.com/images/23746_501/nwo-gas-masks-drawing-lesson_5e4cee60b923a5.72421555_122518_5_3.png">
+<img src="https://assets.dragoart.com/images/23746_501/nwo-gas-masks-drawing-lesson_5e4cee60b923a5.72421555_122518_5_3", width="500", height="500">
 </p>
 
 -----
